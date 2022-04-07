@@ -1,0 +1,105 @@
+
+
+========== EJERCICIOS PRINT ==========
+1.- Crear un programa que imprima en dos líneas por la consola, la primera que diga <Hola, me llamo ...> y la segunda tu edad.
+EJEMPLO: 
+Hola, me llamo Héctor
+19
+
+========== EJERCICIOS INTRODUCCIÓN DE DATOS ==========
+1.- Crea un programa que pregunte al usuario un nombre y una edad y lo muestre por consola en 2 líneas.
+EJEMPLO: 
+Introduzca su nombre: Héctor
+Introduzca su edad: 19
+Nombre: Héctor
+Edad: 19
+
+========== EJERCICIOS CASTEO ==========
+1.- Muestra la suma de dos números en una misma línea de la consola sin poner números en el print, es decir, los numeros los
+tendrán 3 variables.
+EJEMPLO:
+5 + 3 = 8
+
+========== EJERCICIOS LISTAS ==========
+1.- Crea la siguiente lista en un programa: [1, 2, "Sí", False, 8, 20, 35.7, 'a'] y en las siguientes líneas de código modifícala
+a tu criterio para que en la lista quede así: [1, 2, 3, 4, 5], después, imprímela
+SALIDA: [1, 2, 3, 4, 5]
+
+2.- Crea un programa que le pida el nombre y la edad a un usuario, los almacene en una lista y los muestre por pantalla como en
+los anteriores ejercicios pero leeyéndolo de la lista.
+EJEMPLO:
+Introduzca su nombre: Héctor
+Introduzca su edad: 19
+Nombre: Héctor
+Edad: 19
+
+========== EJERCICIOS CONDICIONALES ==========
+1.- Crea un programa que le pida al usuario un nombre y una edad, le salude, y le indique si es mayor o menor de edad
+EJEMPLO 1:
+Introduzca su nombre: Héctor
+Introduzca su edad: 19
+Hola Héctor, eres mayor de edad
+
+EJEMPLO 2:
+Introduzca su nombre: Pepe
+Introduzca su edad: 15
+Hola Pepe, eres menor de edad
+
+========== EJERCICIOS DE BUCLES ==========
+1.- Crea un programa que cuente del 1 al 10 ambos incluídos.
+SALIDA: 1 2 3 4 5 6 7 8 9 10 (Separados por saltos de línea en vez de espacios)
+
+2.- Crea un programa que imprima 5 veces Hola mundo!
+SALIDA: Hola mundo! (5 veces)
+
+3.- Crea un programa que pida un número de personas por consola y después pida sus nombres y edades y las muestre por pantalla
+EJEMPLO:
+Introduzca un número de personas: 3
+Persona 1...
+Introduzca un nombre: Héctor
+Introduzca una edad: 19
+Nombre: Héctor
+Edad: 19
+Persona 2...
+Introduzca un nombre: Pepe
+Introduzca una edad: 15
+Nombre: Pepe
+Edad: 15
+Persona 3...
+Introduzca un nombre: Ana
+Introduzca una edad: 17
+Nombre: Ana
+Edad: 17
+
+4.- Crea un programa que pida un número al usuario y no acabe hasta que el usuario le introduzca un número mayor o igual que 10
+EJEMPLO:
+Introduzca un número mayor o igual que 10: 3
+Introduzca un número mayor o igual que 10: 6
+Introduzca un número mayor o igual que 10: 1
+Introduzca un número mayor o igual que 10: 10
+FIN
+
+========== EJERCICIOS FUNCIONES ==========
+1.- Crea una función que realice el factorial de un número.
+¿Qué es un factorial?: El factorial de n es la serie que realiza la siguiente operación: n! = n * (n - 1)! hasta que n llega a 1
+3! = 6 ya que es 3 * 2 * 1
+4! = 24 ya que es 4 * 3 * 2 * 1
+EJEMPLO:
+Introduzca un número: 5
+El factorial de 5 es 120
+
+2.- Crea un programa que tenga una variable que represente el dinero del banco de una persona, y dos funciones, una para sacar
+dinero de la cuenta y otra para ingresarlo. La función que saca dinero de la cuenta debe restar dicha cantidad a la variable y 
+la de ingresar sumarla.
+EJEMPLO:
+Introduzca una cantidad de dinero en la cuenta: 120.00  (dineroCuenta = 120.00)
+Introduzca una cantidad a retirar de la cuenta: 47.53   (dineroCuenta = 72.47)
+Introduzca una cantidad a ingresar en la cuenta: 56.00  (dineroCuenta = 128.47)
+
+3.- Crea un programa que implemente una calculadora que permita realizar las operaciones básicas de dos números mediante el
+desarrollo de sus correspondientes funciones.
+EJEMPLO: 
+Introduzca una operación: +
+Introduzca el primer número: 5
+Introduzca el segundo número: 3
+Resultado: 5 + 3 = 8
